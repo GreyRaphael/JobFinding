@@ -41,3 +41,5 @@
 使用爬虫爬取字节跳动的[提前批](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=6969453898605299982&type=2&job_hot_flag=&current=1&limit=10&spread=UEHNJ98)的821个岗位，0个适合物理专业和理工科专业的岗位
 
 使用爬虫，[京东提前批"寻猎计划"](https://campus.jd.com/#/jobs?to=present&type=present)，发现17个岗位，0个合适岗位
+
+使用爬虫，[网易雷火提前批](https://leihuo.163.com/campus/#/)，发现80个岗位，0个合适岗位
