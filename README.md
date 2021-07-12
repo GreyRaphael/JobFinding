@@ -27,12 +27,15 @@
 
 ## 2021年07月11日
 
+官网13个岗位一个合适岗位，
 投[miHoYo](https://app.mokahr.com/recommendation-apply/mihoyo/24513?sharePageId=191179&recommenderId=730900#/job/5cdcd6f6-df3f-4dbc-a4f3-e4d86c8d0f87)提前批 引擎开发岗位
 
+
+蔚来爬虫获取295个岗位，1个合适岗位，
 投[蔚来](https://app.mokahr.com/campus_apply/nio888/36824#/job/eed69e3c-3c4d-4b4e-babb-10c1b296e14a)提前批 三电人工智能岗位
 
 ---
 
 ## 2021年07月12日
 
-使用爬虫爬取字节跳动的[提前批](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=6969453898605299982&type=2&job_hot_flag=&current=1&limit=10&spread=UEHNJ98)的821个岗位，没有发现适合物理专业和理工科专业的岗位
+使用爬虫爬取字节跳动的[提前批](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=6969453898605299982&type=2&job_hot_flag=&current=1&limit=10&spread=UEHNJ98)的821个岗位，0个适合物理专业和理工科专业的岗位
