@@ -27,7 +27,7 @@
 
 ## 2021年07月11日
 
-官网13个岗位一个合适岗位，
+官网13个岗位，1个合适岗位，
 投[miHoYo](https://app.mokahr.com/recommendation-apply/mihoyo/24513?sharePageId=191179&recommenderId=730900#/job/5cdcd6f6-df3f-4dbc-a4f3-e4d86c8d0f87)提前批 引擎开发岗位
 
 
