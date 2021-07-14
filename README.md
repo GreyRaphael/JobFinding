@@ -52,3 +52,5 @@
 查看[腾讯](https://join.qq.com/post.html?pid=1), 0个合适岗位
 
 [miHoYo](#2021年07月11日)提前批简历被拒
+
+[小鹏提前批](https://app.mokahr.com/campus_apply/xiaopeng/22?reserve_source=168801#/jobs), 0个合适岗位
