@@ -8,6 +8,7 @@
   - [2021年07月11日](#2021年07月11日)
   - [2021年07月12日](#2021年07月12日)
   - [2021年07月13日](#2021年07月13日)
+  - [2021年07月15日](#2021年07月15日)
 
 ---
 ## 2021年07月06日
@@ -54,3 +55,15 @@
 [miHoYo](#2021年07月11日)提前批简历被拒
 
 [小鹏提前批](https://app.mokahr.com/campus_apply/xiaopeng/22?reserve_source=168801#/jobs), 0个合适岗位
+
+
+## 2021年07月15日
+
+搜索[中电55所](https://mp.weixin.qq.com/s/wZfMrOPr8tiRIxTRSIvz6A), 0个合适岗位
+
+搜索[中电14所](http://hr.nriet.com/Pages/Job/Jobs.aspx), 38个岗位， 2个合适岗位(未投)
+> http://hr.nriet.com/Pages/Job/JobInfo.aspx?e7Z7OBy0GjKMl3Q2JFk3QBy5P5W%2fcuAVG3pR%2fFsafQhOqtSUaS2kamWBD0cn0iN4
+> http://hr.nriet.com/Pages/Job/JobInfo.aspx?h1yS769V2CW%2f%2fMX%2bczoG7CHLV6iGaRxci%2bwG595la8ll1V6lhc5Y%2fRGr%2bI5gZoBp
+
+
+
