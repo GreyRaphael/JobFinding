@@ -67,3 +67,5 @@
 
 
 爬虫[中兴通讯](https://job.zte.com.cn/cn/campus-recruitment), 62个岗位，0个合适岗位
+
+爬虫[大疆](https://we.dji.com/zh-CN/campus/recruitment?id=4), 98个岗位, 0合适岗位
