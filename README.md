@@ -66,4 +66,4 @@
 > http://hr.nriet.com/Pages/Job/JobInfo.aspx?h1yS769V2CW%2f%2fMX%2bczoG7CHLV6iGaRxci%2bwG595la8ll1V6lhc5Y%2fRGr%2bI5gZoBp
 
 
-
+爬虫[中兴通讯](https://job.zte.com.cn/cn/campus-recruitment), 62个岗位，0个合适岗位
