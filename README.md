@@ -9,6 +9,7 @@
   - [2021年07月12日](#2021年07月12日)
   - [2021年07月13日](#2021年07月13日)
   - [2021年07月15日](#2021年07月15日)
+  - [2021年07月16日](#2021年07月16日)
 
 ---
 ## 2021年07月06日
@@ -69,3 +70,7 @@
 爬虫[中兴通讯](https://job.zte.com.cn/cn/campus-recruitment), 62个岗位，0个合适岗位
 
 爬虫[大疆](https://we.dji.com/zh-CN/campus/recruitment?id=4), 98个岗位, 0合适岗位
+
+## 2021年07月16日
+
+爬虫[intel](https://chinacampus.jobs.intel.cn/intel/position/index?recruitmentType=CAMPUSRECRUITMENT), 85个岗位, 0个合适岗位
