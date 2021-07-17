@@ -10,6 +10,7 @@
   - [2021年07月13日](#2021年07月13日)
   - [2021年07月15日](#2021年07月15日)
   - [2021年07月16日](#2021年07月16日)
+  - [2021年07月17日](#2021年07月17日)
 
 ---
 ## 2021年07月06日
@@ -74,3 +75,10 @@
 ## 2021年07月16日
 
 爬虫[intel](https://chinacampus.jobs.intel.cn/intel/position/index?recruitmentType=CAMPUSRECRUITMENT), 85个岗位, 0个合适岗位
+
+## 2021年07月17日
+
+爬虫[huawei](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html), 782个岗位，3个合适岗位
+- [硬件可编程算法工程师](https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=175852)
+- [数值算法工程师](https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=175814)
+- [AI+科学计算研究员](https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=175594)
