@@ -11,6 +11,7 @@
   - [2021年07月15日](#2021年07月15日)
   - [2021年07月16日](#2021年07月16日)
   - [2021年07月17日](#2021年07月17日)
+  - [2021年07月18日](#2021年07月18日)
 
 ---
 ## 2021年07月06日
@@ -82,3 +83,16 @@
 - [硬件可编程算法工程师](https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=175852)
 - [数值算法工程师](https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=175814)
 - [AI+科学计算研究员](https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=175594)
+
+## 2021年07月18日
+
+[蔚来](#2021年07月11日)笔试
+- 编程题： sql
+- 填空题:
+  - 从随机产生1-7的随机数生成器，生成随机产生1-10随机数的生成器
+  - Fabonacci
+  - 答对4道题的同学
+- 多选题
+- 单选题
+
+感觉挂了
