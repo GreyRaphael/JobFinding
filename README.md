@@ -107,3 +107,5 @@
 
 查看[tcl华星光电](http://campus.tcl.com/newGraduate.html), 发现4个岗位， 0个合适岗位
 > 要求为本科，不合适
+
+爬虫字节跳动[提前批, 游戏美术A咖计划](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=6969453898605299982&type=2&job_hot_flag=&current=1&limit=10&spread=UEHNJ98)的883个岗位，0个适合物理专业和理工科专业的岗位
