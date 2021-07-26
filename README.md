@@ -16,6 +16,7 @@
   - [2021年07月20日](#2021年07月20日)
   - [2021年07月21日](#2021年07月21日)
   - [2021年07月23日](#2021年07月23日)
+  - [2021年07月26日](#2021年07月26日)
 
 ---
 ## 2021年07月06日
@@ -120,3 +121,12 @@
 
 爬虫[空天院](https://zhaopin.aircas.ac.cn/system/userInfo/positionSearchByCondition?pageIndex=1&queryKey=&park=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%A0%94%E7%A9%B6%E9%99%A2&employType=%E5%B2%97%E4%BD%8D%E8%81%98%E7%94%A8)，发现245个岗位，1个合适岗位
 > [分子动力学研究与应用开发工程师](https://zhaopin.aircas.ac.cn/system/userInfo/positionInfo?id=343&isDelivery=null)
+
+## 2021年07月26日
+
+爬虫[huawei](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html), 787个岗位，4个合适岗位, 投了两个，等待消息
+
+> https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=175852  
+> https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=175814  
+> https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=175594  
+> https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=179264  
