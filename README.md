@@ -17,6 +17,7 @@
   - [2021年07月21日](#2021年07月21日)
   - [2021年07月23日](#2021年07月23日)
   - [2021年07月26日](#2021年07月26日)
+  - [2021年07月27日](#2021年07月27日)
 
 ---
 ## 2021年07月06日
@@ -130,3 +131,7 @@
 > https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=175814  
 > https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=175594  
 > https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=179264  
+
+## 2021年07月27日
+
+投[天弘基金](https://scc.pku.edu.cn/employment_22e903457aa44233017abd609847134a_0.html)，宏观研究员+行业研究员
