@@ -150,3 +150,6 @@
 ## 2021年08月06日
 
 [蔚来](#2021年07月18日)笔试挂了
+
+查看[Lazada](https://vipcompany.liepin.com/fe-xycompany-pc/vip2021-v2/lazada/position.html) 8个岗位， 0个合适岗位
+
