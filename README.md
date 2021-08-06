@@ -153,3 +153,6 @@
 
 查看[Lazada](https://vipcompany.liepin.com/fe-xycompany-pc/vip2021-v2/lazada/position.html) 8个岗位， 0个合适岗位
 
+爬虫[美团](https://campus.meituan.com/jobs?jobType=1)普通招聘， 64个岗位， 0个合适岗位
+
+爬虫[美团北斗计划](https://campus.meituan.com/beidou)，47个岗位
