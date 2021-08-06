@@ -155,4 +155,6 @@
 
 爬虫[美团](https://campus.meituan.com/jobs?jobType=1)普通招聘， 64个岗位， 0个合适岗位
 
-爬虫[美团北斗计划](https://campus.meituan.com/beidou)，47个岗位
+爬虫[美团北斗计划](https://campus.meituan.com/beidou)，47个岗位，0个合适岗位
+
+爬虫[miHoYo](https://join.mihoyo.com/campus_apply/mihoyo/7525/#/jobs?keyword=), 84个岗位，0个合适岗位
