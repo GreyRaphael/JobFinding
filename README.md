@@ -167,3 +167,5 @@
 爬虫[ARM China](https://app.mokahr.com/apply/armchina/885#/jobs?keyword=), 77个岗位， 0个合适岗位
 
 爬虫[大疆](https://we.dji.com/zh-CN/campus/recruitment?id=4), 100个岗位, 0合适岗位
+
+爬虫[小米](https://app.mokahr.com/campus_apply/xiaomi/286#/jobs?keyword=)， 304个岗位，1个合适岗位
