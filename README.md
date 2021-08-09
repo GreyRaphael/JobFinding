@@ -21,6 +21,7 @@
   - [2021年08月04日](#2021年08月04日)
   - [2021年08月05日](#2021年08月05日)
   - [2021年08月06日](#2021年08月06日)
+  - [2021年08月09日](#2021年08月09日)
 
 ---
 ## 2021年07月06日
@@ -160,3 +161,10 @@
 爬虫[miHoYo](https://join.mihoyo.com/campus_apply/mihoyo/7525/#/jobs?keyword=), 84个岗位，0个合适岗位
 
 爬虫[网易](https://campus.163.com/app/net/position), 112个岗位，0个合适岗位
+
+## 2021年08月09日
+
+爬虫[ARM China](https://app.mokahr.com/apply/armchina/885#/jobs?keyword=), 77个岗位， 0个合适岗位
+
+
+
