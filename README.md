@@ -26,6 +26,7 @@
   - [2021年08月16日](#2021年08月16日)
   - [2021年08月18日](#2021年08月18日)
   - [2021年08月26日](#2021年08月26日)
+  - [2021年08月30日](#2021年08月30日)
 
 ---
 ## 2021年07月06日
@@ -203,3 +204,17 @@
 4. 有金融机构或互联网公司实习经历者优先；
 5. 有大数据、机器学习等项目经验者优先；
 6. 对量化金融领域保持热情，具备良好的学习、沟通能力。
+
+## 2021年08月30日
+
+发现几个长江存储可能合适的岗位
+
+http://ymtc.zhiye.com/campus/?PageIndex=1#job_13
+
+[长江存储-器件工程](http://ymtc.zhiye.com/campus/?PageIndex=2#job_14)
+
+[长江存储-器件工程](http://ymtc.zhiye.com/campus/?PageIndex=3#job_3)
+
+http://ymtc.zhiye.com/campus/?PageIndex=3#job_5
+
+http://ymtc.zhiye.com/campus/?PageIndex=3#job_9
