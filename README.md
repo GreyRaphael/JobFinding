@@ -32,6 +32,7 @@
   - [2021年09月11日](#2021年09月11日)
   - [2021年09月12日](#2021年09月12日)
   - [2021年09月14日](#2021年09月14日)
+  - [2021年09月13日](#2021年09月13日)
 
 ---
 ## 2021年07月06日
@@ -285,6 +286,19 @@ https://scc.pku.edu.cn/employment_22e903457b9e05ea017b9f139fc5015d_0.html
 > https://join.qq.com/post_detail.html?pid=1&id=180&tid=4
 
 
-爬虫[荣耀](https://career.hihonor.com/SU60eea1aa0dcad47a7e1ce1ed/pb/posDetail.html?postId=60efe0cbbef57c1023f7610f&postType=campus), 发现2个合适岗位
+爬虫[荣耀北京](https://career.hihonor.com/SU60eea1aa0dcad47a7e1ce1ed/pb/posDetail.html?postId=60efe0cbbef57c1023f7610f&postType=campus), 发现2个合适岗位
 > https://career.hihonor.com/SU60eea1aa0dcad47a7e1ce1ed/pb/posDetail.html?postId=60efe0cbbef57c1023f7610f&postType=campus, 技术研究工程师-存储介质研究
 > https://career.hihonor.com/SU60eea1aa0dcad47a7e1ce1ed/pb/posDetail.html?postId=60efe0cb0dcad47a7e1d42af&postType=campus
+
+爬虫[易方达北京](http://efunds.hotjob.cn/wt/efunds/web/index/campus), 0个合适岗位
+
+## 2021年09月13日
+
+
+中国兵器 https://zhaopin.nhrdc.cn/campus/index.jsp
+
+预投长鑫简历
+- https://jobs.cxmt.com/cxmt/position/detail?positionId=612dfffd744a2697426e7ae7&recruitmentType=CAMPUSRECRUITMENT&projectId=612e0f64601d46702f292e5c
+- https://jobs.cxmt.com/cxmt/position/detail?positionId=612dffff744a2697426e7af5&recruitmentType=CAMPUSRECRUITMENT&projectId=612e0f64601d46702f292e5c
+- https://jobs.cxmt.com/cxmt/position/detail?positionId=612dfffd744a2697426e7ae9&recruitmentType=CAMPUSRECRUITMENT&projectId=612e0f64601d46702f292e5c
+
