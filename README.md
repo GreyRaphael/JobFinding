@@ -283,3 +283,8 @@ https://scc.pku.edu.cn/employment_22e903457b9e05ea017b9f139fc5015d_0.html
 
 爬虫[腾讯北京](https://join.qq.com/post.html?query=p_1,w_2&c_t=1), 发现3个合适岗位，考虑难度，不投简历
 > https://join.qq.com/post_detail.html?pid=1&id=180&tid=4
+
+
+爬虫[荣耀](https://career.hihonor.com/SU60eea1aa0dcad47a7e1ce1ed/pb/posDetail.html?postId=60efe0cbbef57c1023f7610f&postType=campus), 发现2个合适岗位
+> https://career.hihonor.com/SU60eea1aa0dcad47a7e1ce1ed/pb/posDetail.html?postId=60efe0cbbef57c1023f7610f&postType=campus, 技术研究工程师-存储介质研究
+> https://career.hihonor.com/SU60eea1aa0dcad47a7e1ce1ed/pb/posDetail.html?postId=60efe0cb0dcad47a7e1d42af&postType=campus
