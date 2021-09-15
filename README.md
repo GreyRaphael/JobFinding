@@ -308,3 +308,8 @@ https://scc.pku.edu.cn/employment_22e903457b9e05ea017b9f139fc5015d_0.html
 投[中兴技术预研](https://job.zte.com.cn/cn/campus-recruitment/job-list/10022)
 
 
+爬虫航天科工
+- [新型能源技术研究岗(J12045)](http://casic.zhiye.com/xzlist/?d=-1&c=1100%2C1101%2C1102%2C1103%2C1105%2C1109%2C1110%2C1114%2C1118%2C&p=1%5E-1%2C3%5E-1&PageIndex=15)
+- [结构仿真与验证(J10358)](http://casic.zhiye.com/xzlist/?d=-1&c=1100%2C1101%2C1102%2C1103%2C1105%2C1109%2C1110%2C1114%2C1118%2C&p=1%5E-1%2C3%5E-1&PageIndex=56)
+- [光学图像处理及数据分析技术(J10455)](http://casic.zhiye.com/xzlist/?d=-1&c=1100%2C1101%2C1102%2C1103%2C1105%2C1109%2C1110%2C1114%2C1118%2C&p=1^-1%2C3^-1&PageIndex=84)
+
