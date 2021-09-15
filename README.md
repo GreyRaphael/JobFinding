@@ -33,6 +33,7 @@
   - [2021年09月12日](#2021年09月12日)
   - [2021年09月14日](#2021年09月14日)
   - [2021年09月13日](#2021年09月13日)
+  - [2021年09月15日](#2021年09月15日)
 
 ---
 ## 2021年07月06日
@@ -301,4 +302,9 @@ https://scc.pku.edu.cn/employment_22e903457b9e05ea017b9f139fc5015d_0.html
 - https://jobs.cxmt.com/cxmt/position/detail?positionId=612dfffd744a2697426e7ae7&recruitmentType=CAMPUSRECRUITMENT&projectId=612e0f64601d46702f292e5c
 - https://jobs.cxmt.com/cxmt/position/detail?positionId=612dffff744a2697426e7af5&recruitmentType=CAMPUSRECRUITMENT&projectId=612e0f64601d46702f292e5c
 - https://jobs.cxmt.com/cxmt/position/detail?positionId=612dfffd744a2697426e7ae9&recruitmentType=CAMPUSRECRUITMENT&projectId=612e0f64601d46702f292e5c
+
+## 2021年09月15日
+
+投[中兴技术预研](https://job.zte.com.cn/cn/campus-recruitment/job-list/10022)
+
 
