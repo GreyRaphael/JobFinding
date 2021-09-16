@@ -298,10 +298,8 @@ https://scc.pku.edu.cn/employment_22e903457b9e05ea017b9f139fc5015d_0.html
 
 中国兵器 https://zhaopin.nhrdc.cn/campus/index.jsp
 
-预投长鑫简历
-- https://jobs.cxmt.com/cxmt/position/detail?positionId=612dfffd744a2697426e7ae7&recruitmentType=CAMPUSRECRUITMENT&projectId=612e0f64601d46702f292e5c
-- https://jobs.cxmt.com/cxmt/position/detail?positionId=612dffff744a2697426e7af5&recruitmentType=CAMPUSRECRUITMENT&projectId=612e0f64601d46702f292e5c
-- https://jobs.cxmt.com/cxmt/position/detail?positionId=612dfffd744a2697426e7ae9&recruitmentType=CAMPUSRECRUITMENT&projectId=612e0f64601d46702f292e5c
+已投长鑫简历
+> https://jobs.cxmt.com/cxmt/position/detail?positionId=612dfffd744a2697426e7ae9&recruitmentType=CAMPUSRECRUITMENT&projectId=612e0f64601d46702f292e5c
 
 ## 2021年09月15日
 
