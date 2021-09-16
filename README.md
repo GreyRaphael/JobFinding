@@ -34,6 +34,7 @@
   - [2021年09月14日](#2021年09月14日)
   - [2021年09月13日](#2021年09月13日)
   - [2021年09月15日](#2021年09月15日)
+  - [2021年09月16日](#2021年09月16日)
 
 ---
 ## 2021年07月06日
@@ -298,8 +299,6 @@ https://scc.pku.edu.cn/employment_22e903457b9e05ea017b9f139fc5015d_0.html
 
 中国兵器 https://zhaopin.nhrdc.cn/campus/index.jsp
 
-已投长鑫简历
-> https://jobs.cxmt.com/cxmt/position/detail?positionId=612dfffd744a2697426e7ae9&recruitmentType=CAMPUSRECRUITMENT&projectId=612e0f64601d46702f292e5c
 
 ## 2021年09月15日
 
@@ -311,3 +310,10 @@ https://scc.pku.edu.cn/employment_22e903457b9e05ea017b9f139fc5015d_0.html
 - [结构仿真与验证(J10358)](http://casic.zhiye.com/xzlist/?d=-1&c=1100%2C1101%2C1102%2C1103%2C1105%2C1109%2C1110%2C1114%2C1118%2C&p=1%5E-1%2C3%5E-1&PageIndex=56)
 - [光学图像处理及数据分析技术(J10455)](http://casic.zhiye.com/xzlist/?d=-1&c=1100%2C1101%2C1102%2C1103%2C1105%2C1109%2C1110%2C1114%2C1118%2C&p=1^-1%2C3^-1&PageIndex=84)
 
+## 2021年09月16日
+
+已投长鑫简历
+> https://jobs.cxmt.com/cxmt/position/detail?positionId=612dfffd744a2697426e7ae9&recruitmentType=CAMPUSRECRUITMENT&projectId=612e0f64601d46702f292e5c
+
+发现[长江存储岗位](#2021年08月30日)北京岗位不合适
+> http://ymtc.zhiye.com/campus?k=&c=1100&p=1^-1,&day=-1&PageIndex=1&class=2
