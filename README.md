@@ -35,6 +35,7 @@
   - [2021年09月13日](#2021年09月13日)
   - [2021年09月15日](#2021年09月15日)
   - [2021年09月16日](#2021年09月16日)
+  - [2021年09月17日](#2021年09月17日)
 
 ---
 ## 2021年07月06日
@@ -317,3 +318,10 @@ https://scc.pku.edu.cn/employment_22e903457b9e05ea017b9f139fc5015d_0.html
 
 发现[长江存储岗位](#2021年08月30日)北京岗位不合适
 > http://ymtc.zhiye.com/campus?k=&c=1100&p=1^-1,&day=-1&PageIndex=1&class=2
+
+
+## 2021年09月17日
+
+投[中金](http://cicc.zhiye.com)
+> http://cicc.zhiye.com/xzzwxq?jobId=150481789  
+> http://cicc.zhiye.com/xzzwxq?jobId=150481789
