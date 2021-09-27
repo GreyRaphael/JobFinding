@@ -37,6 +37,7 @@
   - [2021年09月16日](#2021年09月16日)
   - [2021年09月17日](#2021年09月17日)
   - [2021年09月20日](#2021年09月20日)
+  - [2021年09月27日](#2021年09月27日)
 
 ---
 ## 2021年07月06日
@@ -333,3 +334,7 @@ https://scc.pku.edu.cn/employment_22e903457b9e05ea017b9f139fc5015d_0.html
 ## 2021年09月20日
 
 完成[中兴](https://job.zte.com.cn/cn/campus-recruitment), 测评
+
+## 2021年09月27日
+
+爬虫[小鹏北京](https://app.mokahr.com/campus_apply/xiaopeng/22#/jobs?keyword=&location=%E5%8C%97%E4%BA%AC%E5%B8%82&page=1), 发现0个合适岗位
